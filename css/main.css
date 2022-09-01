@@ -17,7 +17,7 @@ body {
   height: 70vh;
   margin: 10% auto;
   border: 2px solid #000;
-  padding: 50px 20px;
+  padding: 0 20px 50px 20px;
   border-radius: 10px;
   background-color: bisque;
 }
